@@ -1,4 +1,4 @@
-# SentimentSage: Advanced Mental Health Chatbot with Emotion-Aware Responses
+# SentimentSage: A Mental Health Chatbot with Emotion-Aware Responses
 
 ## Stack Up Bounty Submission: Llama Chatbot with Sentiment Analysis Integration
 
